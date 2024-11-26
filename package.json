@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-puppeteer-pdf",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "puppeteer-core": "^10.4.0",
+    "chrome-aws-lambda": "^10.1.0"
+  }
+}
